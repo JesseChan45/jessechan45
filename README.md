@@ -13,7 +13,7 @@ Some of my info...
 - Bimmer but dream of Porsche
 - Fan of G.E.M. and Sennheiser, especially enjoy listening to G.E.M.'s music with Sennheiser
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,vue,docker,kubernetes,github,gitlab,linux,git,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,vue,docker,kubernetes,github,gitlab,linux,nginx,mysql,postgresql,git,bash,neovim)](https://skillicons.dev)
 
 <!--
 **JesseChan45/jessechan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
