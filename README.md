@@ -12,6 +12,7 @@ Some of my info...
 - Curious about low-level computer technology
 - Bimmer but dream of Porsche
 - Fan of G.E.M. and Sennheiser, especially enjoy listening to G.E.M.'s music with Sennheiser
+- Addicted to Geisha in Panama
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,vue,docker,kubernetes,github,gitlab,linux,nginx,mysql,postgresql,git,bash,neovim)](https://skillicons.dev)
 
